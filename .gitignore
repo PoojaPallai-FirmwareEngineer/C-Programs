@@ -35,3 +35,12 @@ Makefile
 
 # Others
 tags
+
+# Ignore object files
+*.o
+
+# Ignore files with .coneidentifier (if you don't want them)
+*.coneidentifier
+
+# (Optional) Ignore binaries
+*.out
