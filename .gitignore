@@ -1,0 +1,32 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Backup and temporary files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Debug files and logs
+*.log
+*.dSYM/
+
+# IDE/project files (optional)
+.vscode/
+.idea/
+*.depend
+*.layout
+cmake-build-*/
+
+# Makefiles (optional, if generated)
+Makefile
+
+# Tags and metadata
+tags
+*.coneidentifier
+*.Zone.Identifier
+*:*Zone.Identifier
