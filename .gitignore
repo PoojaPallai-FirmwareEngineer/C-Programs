@@ -32,3 +32,12 @@ tags
 
 # Exclude Zone.Identifier for files that have been downloaded on Windows (optional)
 *:Zone.Identifier
+
+# Ignore files with no extension (compiled binaries)
+Bit_Manipulation/**/*
+!*.c
+!*.h
+
+Bit_Manipulation/Advanced_Programs/*
+Bit_Manipulation/Basic_Programs/*
+Bit_Manipulation/Intermediate_Programs/*
