@@ -1,5 +1,5 @@
-# Compiled object files
-*.o
+# Object files
+.o
 
 # Compiled binary files
 *.out
@@ -30,3 +30,8 @@ tags
 *.coneidentifier
 *.Zone.Identifier
 *:*Zone.Identifier
+
+echo "*.o" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "*:Zone.Identifier" >> .gitignore
+
