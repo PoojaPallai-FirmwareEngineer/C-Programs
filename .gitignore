@@ -44,3 +44,5 @@ tags
 
 # (Optional) Ignore binaries
 *.out
+
+*:*Zone.Identifier
