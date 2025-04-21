@@ -1,5 +1,5 @@
 # Object files
-.o
+*.o
 
 # Compiled binary files
 *.out
@@ -29,9 +29,6 @@ Makefile
 tags
 *.coneidentifier
 *.Zone.Identifier
-*:*Zone.Identifier
 
-echo "*.o" >> .gitignore
-echo "*.exe" >> .gitignore
-echo "*:Zone.Identifier" >> .gitignore
-
+# Exclude Zone.Identifier for files that have been downloaded on Windows (optional)
+*:Zone.Identifier
