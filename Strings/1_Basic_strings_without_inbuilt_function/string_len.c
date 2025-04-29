@@ -3,6 +3,13 @@
 #include<stdio.h>
 int str_length(char str[])
 {
+    // Logic can be done 
+    // 1. Using while loop with pointer
+    // 2. Using for loop with index
+    // 3. Using for loop with pointer
+    // 4. Using recursion
+    // 5. Using do-while loop
+
     int length = 0;
     while(str[length] != '\0')
     {

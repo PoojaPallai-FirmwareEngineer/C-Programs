@@ -5,6 +5,15 @@
 
 void reverse_string(char *str)
 {
+    // logic can be done 
+    // ✅ 1. Two-pointer approach (start and end) with while loop
+    // ✅ 2. Two-pointer approach with for loop
+    // ✅ 3. Using a single pointer (char *start, char *end) and swap
+    // ✅ 4. Using recursion (swap first and last, move inward)
+    // ✅ 5. Copy into a new array from end to start
+    // ✅ 6. Using stack (push all characters, then pop)
+
+
     int start = 0;
     int end = 0;
 
