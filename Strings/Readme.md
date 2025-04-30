@@ -9,6 +9,7 @@
 ### 2. String Searching and Pattern Matching
 1. **First Non-Repeating Character:** Write a function to find the first non-repeating character in a string.
 2. **String Contains Only Digits:** Write a function to check if a string contains only digits.
+
 3. **Find Substring Index:** Write a function to find the first occurrence of a substring in a string.
 4. **Substring Occurrence Count:** Write a function to count the occurrences of a particular substring in a string.
 
@@ -16,13 +17,13 @@
 1. **Remove Duplicates:** Write a function to remove duplicate characters from a string.
 2. **Remove Whitespace:** Write a function to remove all whitespace from a string.
 3. **Replace Characters:** Write a function to replace all occurrences of a character in a string.
-4. **Reverse Words in a String:** Write a function to reverse the words in a string (e.g., "Hello World" -> "World Hello").
-5. **Remove Vowels from a String:** Write a function to remove vowels from a string.
-6. **Lowercase/Uppercase Conversion:** Write a function to convert a string to lowercase or uppercase.
-7. **Shift All Spaces to the End:** Write a function to shift all spaces in a string to the end without changing the order of other characters.
+4. **Lowercase/Uppercase Conversion:** Write a function to convert a string to lowercase or uppercase.
+5. **Shift All Spaces to the End:** Write a function to shift all spaces in a string to the end without changing the order of other characters.
+6. **Reverse Words in a String:** Write a function to reverse the words in a string (e.g., "Hello World" -> "World Hello").
+7. **Remove Vowels from a String:** Write a function to remove vowels from a string.
 8. **Reverse every word in a sentence but keep their order intact** <!-- Input: "Hello World" Output: "olleH dlroW" -->
-9. **Replace all spaces in a string with @20 (URL encoding).** <!-- Input: "My name is John" Output: "My@20name@20is@20John" -->
-10. **Reverse only the vowels in a given string.** <!-- Input: "beautiful" Output: "buetifal" -->
+9. **Reverse only the vowels in a given string.** <!-- Input: "beautiful" Output: "buetifal" -->
+10. **Replace all spaces in a string with @20 (URL encoding).** <!-- Input: "My name is John" Output: "My@20name@20is@20John" -->
 
 ## 4. Palindrome Operations
 1. **Basic Palindrome Check:** Write a function to check if a string is a palindrome. - Already there
