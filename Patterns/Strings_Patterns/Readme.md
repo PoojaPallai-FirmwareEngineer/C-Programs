@@ -59,7 +59,7 @@ P   r   i
  C O D
 C O D E -->
 
-. **Reverse Staircase Pattern**
+8. **Reverse Staircase Pattern**
 <!-- 
 H E L L O
 H E L L
