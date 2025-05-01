@@ -7,9 +7,8 @@
 4. **String Rotation:** Write a function to check if one string is a rotation of another. Given two strings, write a function to check if one is a rotation of the other.
 
 ### 2. String Searching and Pattern Matching
-1. **First Non-Repeating Character:** Write a function to find the first non-repeating character in a string.
+1. **First Non-Repeating Character:** Write a function to find the first non-repeating character in a string.   
 2. **String Contains Only Digits:** Write a function to check if a string contains only digits.
-
 3. **Find Substring Index:** Write a function to find the first occurrence of a substring in a string.
 4. **Substring Occurrence Count:** Write a function to count the occurrences of a particular substring in a string.
 
@@ -26,10 +25,11 @@
 10. **Replace all spaces in a string with @20 (URL encoding).** <!-- Input: "My name is John" Output: "My@20name@20is@20John" -->
 
 ## 4. Palindrome Operations
-1. **Basic Palindrome Check:** Write a function to check if a string is a palindrome. - Already there
+1. **Basic Palindrome Check:** Write a function to check if a string is a palindrome. 
 2. **Case-Insensitive Palindrome Check:** Write a function to check if a string is a palindrome while ignoring case. 
    **&& Palindrome Check Without Extra Space:** Write a function to check if a string is a palindrome without using extra space.
 3. **Valid Palindrome (Ignoring Non-Alphanumeric Characters):** Write a function to check if a string is a valid palindrome, ignoring non-alphanumeric characters & case.
+
 4. **Longest Palindromic Substring:** Write a function to find the longest palindromic substring in a string. - Practice
 5. **Check if String is a Permutation of a Palindrome:** Write a function to check if a string is a permutation of a palindrome. - Practice
 
@@ -108,39 +108,3 @@
 1. **Generate all possible substrings of a given string.**
 2. **Find the longest common prefix among an array of strings.** - Practice
 
-## 20. Patterns
-1. **Print a given string in a right-aligned triangular pattern.**
-    M
-   My
-  MyN
- MyNa
-MyNam
-
-2. **Print the given string with increasing spaces between characters.**
-Input: "HELLO"
-Output:  
-H  
-E L  
-L   L  
-O 
-
-3. **Print a string in a diamond pattern.**
-  A  
- B B  
-C   C  
- B B  
-  A 
-
-4. **Print the given string in a wave pattern.**
-H   O  
- E L   
-  L  
- E L   
-H   O 
-
-5. **Print characters in a staircase pattern.**
-I  
-I N  
-I N T  
-I N T E  
-I N T E R
