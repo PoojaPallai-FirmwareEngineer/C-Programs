@@ -29,13 +29,12 @@
 2. **Case-Insensitive Palindrome Check:** Write a function to check if a string is a palindrome while ignoring case. 
    **&& Palindrome Check Without Extra Space:** Write a function to check if a string is a palindrome without using extra space.
 3. **Valid Palindrome (Ignoring Non-Alphanumeric Characters):** Write a function to check if a string is a valid palindrome, ignoring non-alphanumeric characters & case.
-
 4. **Longest Palindromic Substring:** Write a function to find the longest palindromic substring in a string. - Practice
 5. **Check if String is a Permutation of a Palindrome:** Write a function to check if a string is a permutation of a palindrome. - Practice
 
 ## 5. Anagram Problems
 1. **Check for Anagram:** Write a function to check if two strings are anagrams of each other.
-2. **Valid Anagram (With Built-In Sort):** Write a function to check if two strings are valid anagrams with using built-in sort functions done
+2. **Valid Anagram (With Built-In Sort):** Write a function to check if two strings are valid anagrams with using built-in sort functions.
 3. **Group Anagrams:** Write a function that groups anagrams from a list of strings.
 4. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
 
@@ -60,11 +59,7 @@
 7. **Binary String Inversion** - Write a function to invert a binary string (changing 0s to 1s and 1s to 0s).
 
 ### 9. Advanced String Algorithms
-1. **Knuth-Morris-Pratt (KMP) Pattern Matching:** Implement the KMP algorithm for string pattern matching.
-2. **Rabin-Karp Algorithm:** Implement the Rabin-Karp algorithm for substring searching.
-3. **Z Algorithm:** Write a function to implement the Z algorithm for pattern matching.
-4. **Boyer-Moore Algorithm:** Implement the Boyer-Moore algorithm for efficient string matching.
-5. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching.
+1. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching.
 
 ## 10. Miscellaneous String Problems
 1. **Convert String to Integer (atoi):** Write a function that converts a string to an integer (atoi implementation).
