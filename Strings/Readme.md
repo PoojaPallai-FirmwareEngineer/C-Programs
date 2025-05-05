@@ -39,7 +39,8 @@
 4. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
 
 ## 6. Advanced String Manipulation
-1. **Find the First Unique Character:** Write a function to find the first unique character in a string. & **Find the Most Frequent Character:** Write a function to find the most frequent character in a string. - already there
+1. **Find the First Unique Character:** Write a function to find the first unique character in a string 
+   **&& Find the Most Frequent Character:** Write a function to find the most frequent character in a string.
 2. **String Permutations:** Write a function to find all permutations of a string. Practice
 3. **String Compression:** Write a function that compresses a string (e.g., "aaabb" -> "a3b2"). Practice
 
