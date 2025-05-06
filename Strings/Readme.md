@@ -29,28 +29,27 @@
 2. **Case-Insensitive Palindrome Check:** Write a function to check if a string is a palindrome while ignoring case. 
    **&& Palindrome Check Without Extra Space:** Write a function to check if a string is a palindrome without using extra space.
 3. **Valid Palindrome (Ignoring Non-Alphanumeric Characters):** Write a function to check if a string is a valid palindrome, ignoring non-alphanumeric characters & case.
-4. **Longest Palindromic Substring:** Write a function to find the longest palindromic substring in a string. - Practice
-5. **Check if String is a Permutation of a Palindrome:** Write a function to check if a string is a permutation of a palindrome. - Practice
+4. **Longest Palindromic Substring:** Write a function to find the longest palindromic substring in a string. 
+5. **Check if String is a Permutation of a Palindrome:** Write a function to check if a string is a permutation of a palindrome. 
 
 ## 5. Anagram Problems
 1. **Check for Anagram:** Write a function to check if two strings are anagrams of each other.
 2. **Valid Anagram (With Built-In Sort):** Write a function to check if two strings are valid anagrams with using built-in sort functions.
 3. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
 
-4. **Group Anagrams:** Write a function that groups anagrams from a list of strings.
+4. **Group Anagrams:** Write a function that groups anagrams from a list of strings. **Hard**
 
 ## 6. Advanced String Manipulation
 1. **Find the First Unique Character:** Write a function to find the first unique character in a string 
    **&& Find the Most Frequent Character:** Write a function to find the most frequent character in a string.
-2. **String Permutations:** Write a function to find all permutations of a string. Practice
-3. **String Compression:** Write a function that compresses a string (e.g., "aaabb" -> "a3b2"). Practice
+2. **String Permutations:** Write a function to find all permutations of a string. 
+3. **String Compression:** Write a function that compresses a string (e.g., "aaabb" -> "a3b2"). 
 
 ## 7. String Challenges with Edge Cases
 1. **Check if Two Strings Are Equal After Removing All Occurrences of a Character** - Write a function that checks if two strings are equal after removing all occurrences of a character.
 2. **Count Substrings of a Given Length** - Write a function to count the number of substrings of a given length in a string.
 3. **Find Words in a Sentence** - Write a function that splits a sentence into words and returns a list of words.
-
-4. **Check if a String Can Be Formed by Repeating Substrings** - Write a function to check if a string is composed of a repeating substring.
+4. **Check if a String Can Be Formed by Repeating Substrings** - Write a function to check if a string is composed of a repeating substring. **Hard**
 
 ## 8. Bit Manipulation with Strings
 1. **Count Set Bits in a Binary String**- Write a function to count the number of set bits (1s) in a binary string.
