@@ -35,8 +35,9 @@
 ## 5. Anagram Problems
 1. **Check for Anagram:** Write a function to check if two strings are anagrams of each other.
 2. **Valid Anagram (With Built-In Sort):** Write a function to check if two strings are valid anagrams with using built-in sort functions.
-3. **Group Anagrams:** Write a function that groups anagrams from a list of strings.
-4. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
+3. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
+
+4. **Group Anagrams:** Write a function that groups anagrams from a list of strings.
 
 ## 6. Advanced String Manipulation
 1. **Find the First Unique Character:** Write a function to find the first unique character in a string 
@@ -48,6 +49,7 @@
 1. **Check if Two Strings Are Equal After Removing All Occurrences of a Character** - Write a function that checks if two strings are equal after removing all occurrences of a character.
 2. **Count Substrings of a Given Length** - Write a function to count the number of substrings of a given length in a string.
 3. **Find Words in a Sentence** - Write a function that splits a sentence into words and returns a list of words.
+
 4. **Check if a String Can Be Formed by Repeating Substrings** - Write a function to check if a string is composed of a repeating substring.
 
 ## 8. Bit Manipulation with Strings
