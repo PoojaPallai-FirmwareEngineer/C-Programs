@@ -103,5 +103,5 @@
 
 ## 19. Substring & Combination Problems
 1. **Generate all possible substrings of a given string.**
-2. **Find the longest common prefix among an array of strings.** - Practice
+2. **Find the longest common prefix among an array of strings.** 
 
