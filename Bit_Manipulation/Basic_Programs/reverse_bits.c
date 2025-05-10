@@ -62,41 +62,43 @@ Iteration breakdown:
 
 Final result:
    reverseNum = 0011 (binary), which is 3 in decimal.
+
+NOTE: To remove the extra space use shift + tab
 */
 
 #include <stdio.h>
 unsigned int reverseBits(unsigned int num, int bitsize)
 {
-    unsigned int reverseNum = 0;
-    int i;
-    for(i = 0; i < bitsize; i++)
-    {
-        reverseNum = (reverseNum << 1) | (num & 1);
-        num >>= 1;
-    }
-    return reverseNum;
+   unsigned int reverseNum = 0;
+   int i;
+   for(i = 0; i < bitsize; i++)
+   {
+      reverseNum = (reverseNum << 1) | (num & 1);
+      num >>= 1;
+   }
+   return reverseNum;
 }
 
 int main()
 {
-    unsigned int num;
-    int bitsize;
+   unsigned int num;
+   int bitsize;
 
-    printf("Enter the num:");
-    scanf("%u", &num);
-    printf("Enter the bit size (32, 16, 8 or 4):");
-    scanf("%d", &bitsize);
+   printf("Enter the num:");
+   scanf("%u", &num);
+   printf("Enter the bit size (32, 16, 8 or 4):");
+   scanf("%d", &bitsize);
 
-    // Validate the bit size
-    if (bitsize != 32 && bitsize != 16 && bitsize != 8 && bitsize != 4)
-    {
-        printf("Invalid bit size. Please enter 32, 16, 8, 4");
-        return 1;
-    }
+   // Validate the bit size
+   if (bitsize != 32 && bitsize != 16 && bitsize != 8 && bitsize != 4)
+   {
+      printf("Invalid bit size. Please enter 32, 16, 8, 4");
+      return 1;
+   }
 
-    unsigned int result = reverseBits(num, bitsize);
-    printf("Resversed bits of %u in %d bit size: %u\n", num, bitsize, result);
+   unsigned int result = reverseBits(num, bitsize);
+   printf("Resversed bits of %u in %d bit size: %u\n", num, bitsize, result);
 
-    return 0;
+   return 0;
 
 }
