@@ -10,31 +10,37 @@
 
 int Set_bit(int num, int i)
 {
+    // To set the i-th bit, I use num | (1 << i). This ensures the i-th bit becomes 1, regardless of its previous value
     return num | (1 << i);
 }
 
 int clear_bit(int num, int i)
 {
+    // To clear the i-th bit, I use num & ~(1 << i). This forces the i-th bit to 0, while keeping all other bits unchanged.
     return num & ~(1 << i);
 }
 
 int toggle_bit(int num, int i)
 {
+    // To toggle the i-th bit, I use num ^ (1 << i). It flips the bit: 0 becomes 1, and 1 becomes 0.
     return num ^ (1 << i);
 }
 
 int check_bit(int num, int i)
 {
+    // To check if the i-th bit is set, I use (num & (1 << i)) != 0. If it's non-zero, the bit is set to 1.
     return (num & (1 << i)) != 0;
 }
 
 int turnoff_bit(int num, int i)
 {
+    // To turn off the rightmost 1-bit, I use num & (num - 1). It clears only the lowest set bit in the number.
     return num & (num - 1);
 }
 
 int rightmost_bit(int num, int i)
 {
+    // To find the rightmost 1-bit, I use num & -num. It isolates the lowest bit that is set to 1
     return num & -num;
 }
 
