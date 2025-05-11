@@ -41,17 +41,3 @@ This document contains a categorized list of common recursion-based coding quest
 
 ---
 
-## 🧠 Tips
-- Always define a **base case** to avoid infinite recursion.
-- Use **helper functions** when dealing with arrays or strings.
-- Practice dry runs with pen and paper to understand the **call stack**.
-
----
-
-## 🛠️ Recommended Practice
-Try solving each of the above problems:
-- First on paper.
-- Then in a C compiler or online IDE.
-- Finally, optimize your solution (if needed).
-
-Happy coding! 🚀

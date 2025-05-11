@@ -61,16 +61,17 @@
 7. **Binary String Inversion** - Write a function to invert a binary string (changing 0s to 1s and 1s to 0s).
 
 ### 9. Advanced String Algorithms
-1. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching.
+1. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching. **hard**
 
 ## 10. Miscellaneous String Problems
 1. **Convert String to Integer (atoi):** Write a function that converts a string to an integer (atoi implementation).
 2. **String to Number (parseInt):** Write a function to parse a string as a number.
+
 3. **Find the Minimum Window Substring:** Write a function that finds the smallest window in a string which contains all characters of another string. **Hard**
 
 ## 11. String Operations on Large Inputs
 1. **Substring with Concatenation of All Words:** Write a function that takes a list of words and a string and checks if the string contains all the words in the list in any order.
-2. **Longest Repeating Substring:** Write a function to find the longest repeating substring in a string. **Hard**
+2. **Longest Repeating Substring:** Write a function to find the longest repeating substring in a string.
 3. **Longest Substring Without Repeating Characters:** Write a function to find the longest substring without repeating characters.
 
 ## 12. Advanced String Transformations
