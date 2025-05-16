@@ -36,7 +36,6 @@
 1. **Check for Anagram:** Write a function to check if two strings are anagrams of each other.
 2. **Valid Anagram (With Built-In Sort):** Write a function to check if two strings are valid anagrams with using built-in sort functions.
 3. **Find All Anagrams in a String:** Write a function to find all anagrams of a word within a string.
-
 4. **Group Anagrams:** Write a function that groups anagrams from a list of strings. **Hard**
 
 ## 6. Advanced String Manipulation
@@ -61,16 +60,15 @@
 7. **Binary String Inversion** - Write a function to invert a binary string (changing 0s to 1s and 1s to 0s).
 
 ### 9. Advanced String Algorithms
-1. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching. **hard**
+1. **Trie Data Structure for Prefix Matching:** Write a function that uses a Trie data structure for fast prefix matching. 
 
 ## 10. Miscellaneous String Problems
 1. **Convert String to Integer (atoi):** Write a function that converts a string to an integer (atoi implementation).
 2. **String to Number (parseInt):** Write a function to parse a string as a number.
-
 3. **Find the Minimum Window Substring:** Write a function that finds the smallest window in a string which contains all characters of another string. **Hard**
 
 ## 11. String Operations on Large Inputs
-1. **Substring with Concatenation of All Words:** Write a function that takes a list of words and a string and checks if the string contains all the words in the list in any order.
+1. **Substring with Concatenation of All Words:** Write a function that takes a list of words and a string and checks if the string contains all the words in the list in any order. **Hard**
 2. **Longest Repeating Substring:** Write a function to find the longest repeating substring in a string.
 3. **Longest Substring Without Repeating Characters:** Write a function to find the longest substring without repeating characters.
 
@@ -81,7 +79,7 @@
 ## 13. Dynamic Programming with Strings
 1. **Edit Distance:** Write a function to calculate the minimum number of operations required to convert one string to another (using insert, delete, replace).
 2. **Longest Common Subsequence:** Write a function to find the longest common subsequence between two strings.
-3. **Longest Increasing Subsequence in a String:** Write a function to find the longest increasing subsequence in a string.
+3. **Longest Increasing Subsequence in a String:** Write a function to find the longest increasing subsequence in a string. 
 
 ## 14. Sorting Strings
 1. **Write a program to sort the characters in a string in ascending order.**
@@ -105,4 +103,3 @@
 ## 19. Substring & Combination Problems
 1. **Generate all possible substrings of a given string.**
 2. **Find the longest common prefix among an array of strings.** 
-
