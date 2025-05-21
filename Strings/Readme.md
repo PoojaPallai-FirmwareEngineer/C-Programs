@@ -103,3 +103,8 @@
 ## 19. Substring & Combination Problems
 1. **Generate all possible substrings of a given string.**
 2. **Find the longest common prefix among an array of strings.** 
+
+## 20. String Parsing and Tokenization 
+1. **Parse CSV or semi-structured text** <!-- Example: Parse a CSV line into individual fields. -->
+2. **Split string using multiple delimiters**
+
